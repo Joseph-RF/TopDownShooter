@@ -7,7 +7,14 @@ Gameplay revolves around a character (hero) you control which can be moved aroun
 
 Enemies will appear at the edges of the screen and move in a straight line towards you. If enemies reach you they will deal damage, lowering your health. Once your health reaches zero, game over.
 
-Defend yourself be shooting at the enemies by aiming with your cursor and clicking to fire. 
+Defend yourself from the waves of enemies by shooting at them by aiming with your cursor and clicking to fire. 
+
+---
+*Requirements*
+
+In order to run this code, you need to properly install and link SFML.
+
+I recommend the following tutorial by [EOD - Ethan](https://www.youtube.com/watch?v=lFzpkvrscs4).
 
 ## Preview
 
@@ -15,4 +22,4 @@ Defend yourself be shooting at the enemies by aiming with your cursor and clicki
 
 The hero is the green square and the projectiles he fires at enemies are yellow. Every other square is an enemy.
 
-There are different enemy colours corresponding to different classes.
+There are different enemy colours corresponding to different classes. 
